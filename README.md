@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm cryptnomy and currently learning data science.
+I'm cryptnomy and currently learning machine learning and deep learning.
 How to reach me: cryptnomy@gmail.com
 
 <!--
